@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="footer ">
         <div className="footer-content">
             <h3>FED Blog</h3>
-            Page Credits : K.vishnu 20BQ1A0591<br></br>
+            Page Credits : K.Eswar 20BQ1A05A5<br></br>
             copyright &copy; {new Date().getFullYear()} <a href=""> FED Blog</a>  
         </div>
       </div>
